@@ -1,0 +1,21 @@
+/** profile*/
+#header .profile img{
+    width: 70px;/*Tamanho*/
+}
+
+figcaption{
+    font-size: 15px;
+}
+
+#header .profile .social-link img{
+    width: 20px;
+}
+li{
+    list-style: none;
+    font-size: 10px;
+}
+
+#conhecimento .soft-skils img{
+    width: 40px;
+}
+
